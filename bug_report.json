@@ -1,4 +1,10 @@
-{"Summary": "When adding an unregistered device to the Devices section, a window with an incorrect error appears",
- "Result" : "An error has occurred - Bring the device closer to the hub and make sure you activate it according to the instructions",
- "Expected Result": "I got the error No devices found. Prove correct"
-}
+{ "title": "",
+  "severity": "",
+  "priority": "",
+  "description": "",
+  "environment": "",
+  "steps_to_reproduce": "",
+  "expected_result": "",
+  "actual_result": "",
+  "attachments": ""
+ }
